@@ -15,3 +15,5 @@ Router on the stick (Inter-VLAN Routing)
 <img width="511" height="164" alt="image" src="https://github.com/user-attachments/assets/d23e01ef-e842-4ef4-8f81-2d8713b0776b" />
 
 <img width="495" height="302" alt="image" src="https://github.com/user-attachments/assets/3214ea2a-0c3c-45cc-b038-eb0918ebaf74" />
+
+<img width="869" height="322" alt="image" src="https://github.com/user-attachments/assets/05e882df-dcd0-42d5-afbd-b131927ad119" />
