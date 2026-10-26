@@ -13,3 +13,17 @@ Add ports into VLAN
 <img width="955" height="328" alt="image" src="https://github.com/user-attachments/assets/12650324-2f04-4783-ae10-32c2efb021ee" />
 
 <img width="951" height="349" alt="image" src="https://github.com/user-attachments/assets/e3d7370d-106b-4d1e-b95c-1ddf88dd1400" />
+
+Verify
+
+<img width="951" height="165" alt="image" src="https://github.com/user-attachments/assets/1f1e3c93-2aec-4316-9c37-6c3f81a8b7a4" />
+
+Verify Trunk
+
+<img width="1638" height="472" alt="image" src="https://github.com/user-attachments/assets/3d8d57ec-eb5a-4df7-9640-348809c3b6a0" />
+
+Not yet trunk between SW1 and SW2
+
+Trunk
+
+<img width="956" height="387" alt="image" src="https://github.com/user-attachments/assets/46f8b713-26a7-45ca-83ec-6eeb37b04b52" />
