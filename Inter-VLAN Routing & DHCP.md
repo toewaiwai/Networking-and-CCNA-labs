@@ -16,4 +16,8 @@ Router on the stick (Inter-VLAN Routing)
 
 <img width="495" height="302" alt="image" src="https://github.com/user-attachments/assets/3214ea2a-0c3c-45cc-b038-eb0918ebaf74" />
 
+DHCP
+
+<img width="917" height="302" alt="image" src="https://github.com/user-attachments/assets/539d5565-0b78-4a21-9a63-dfe94fa9982a" />
+
 <img width="869" height="322" alt="image" src="https://github.com/user-attachments/assets/05e882df-dcd0-42d5-afbd-b131927ad119" />
