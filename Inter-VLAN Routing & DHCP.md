@@ -4,6 +4,10 @@ VLAN Create
 
 <img width="950" height="290" alt="image" src="https://github.com/user-attachments/assets/6b325637-9a29-478e-9aa3-6757981fe35b" />
 
+Trunk
+
+<img width="805" height="307" alt="image" src="https://github.com/user-attachments/assets/e339d4b6-e293-4f50-a829-7748504ff6fc" />
+
 Router on the stick (Inter-VLAN Routing)
 
 <img width="467" height="139" alt="image" src="https://github.com/user-attachments/assets/6ae490a5-e4a8-4862-8d6e-40ed3c385f02" />
