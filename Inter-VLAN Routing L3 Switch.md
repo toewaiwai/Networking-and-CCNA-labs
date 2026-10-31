@@ -6,6 +6,7 @@ Configure ASW02
 
 <img width="873" height="358" alt="image" src="https://github.com/user-attachments/assets/224dbadc-e0e3-4487-96ee-c9951b24ebe0" />
 
+
 Configure DSW
 
 ```
@@ -42,8 +43,12 @@ DSW(config)#ip routing
 
 <img width="940" height="268" alt="image" src="https://github.com/user-attachments/assets/e4451f00-b376-4e67-8af2-19a03d7de4d3" />
 
-Verify
-<img width="491" height="307" alt="image" src="https://github.com/user-attachments/assets/0b62253e-5a63-4dea-890d-01257dd94ad8" />
 
 Verify
+
+<img width="491" height="307" alt="image" src="https://github.com/user-attachments/assets/0b62253e-5a63-4dea-890d-01257dd94ad8" />
+
+
+Verify
+
 <img width="760" height="152" alt="image" src="https://github.com/user-attachments/assets/44812fb0-dcb8-4196-b284-f62df72b892d" />
