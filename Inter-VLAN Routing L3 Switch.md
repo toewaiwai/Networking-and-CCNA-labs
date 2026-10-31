@@ -1,6 +1,3 @@
-<img width="980" height="622" alt="image" src="https://github.com/user-attachments/assets/773f8385-883c-4d17-9b03-6efcf7988cc7" />
-
-
 
 Configure ASW01
 
