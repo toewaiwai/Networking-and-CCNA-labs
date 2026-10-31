@@ -38,7 +38,6 @@ DSW(config-if)#exit
 DSW(config)#interface vlan 20
 DSW(config-if)#ip address 192.168.2.254 255.255.255.0
 DSW(config-if)#no shut
-DSW(config)#ip routing
 ```
 
 <img width="940" height="268" alt="image" src="https://github.com/user-attachments/assets/e4451f00-b376-4e67-8af2-19a03d7de4d3" />
