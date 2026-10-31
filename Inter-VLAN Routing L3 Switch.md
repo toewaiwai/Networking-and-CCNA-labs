@@ -51,6 +51,4 @@ Verify
 <img width="491" height="307" alt="image" src="https://github.com/user-attachments/assets/0b62253e-5a63-4dea-890d-01257dd94ad8" />
 
 
-Verify
 
-<img width="760" height="152" alt="image" src="https://github.com/user-attachments/assets/44812fb0-dcb8-4196-b284-f62df72b892d" />
